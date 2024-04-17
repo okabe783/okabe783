@@ -1,23 +1,19 @@
-# About Me
+name: GitHub-Profile-Summary-Cards
 
-1. I'm a web frontend and backend developer from Japan
+on:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
+  workflow_dispatch:
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
 
-3. You can find my Tech Blog at [No Change No Life I/O](https://masanyon.com/)
-
-4. You can find my Zenn Blog [here](https://zenn.dev/manase)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
-
-## Programming Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
-
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
-
-## DB and Dev Tools etc
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
