@@ -1,6 +1,6 @@
-# Backend Developer in Japan👋
-### Just 20 years old 
-### Feel free to contact me anytime!👍
+# I am a game programmer in Japan😤
+### 22 years old 
+### My dream is to one day create a game that will be played all over the world!👍
 #
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
 
