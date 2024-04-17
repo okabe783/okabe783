@@ -3,7 +3,7 @@
 ### My dream is to one day create a game that will be played all over the world!👍
 #
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# Skill (studying)
 
 <img src="https://skillicons.dev/icons?i=github,unrealengine,discord,unity" /> <br /><br />
 
