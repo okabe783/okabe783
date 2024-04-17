@@ -6,11 +6,6 @@
 # My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=github,unrealengine,discord,unity" /> <br /><br />
-  
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
-
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
