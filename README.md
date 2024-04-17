@@ -3,14 +3,6 @@
 ### My dream is to one day create a game that will be played all over the world!👍
 #
 
-# NOW TRAINING
-
-<p align="left">
-<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
-</p>
-
-
-
 # My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
