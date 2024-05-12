@@ -1,6 +1,5 @@
 # I am a game programmer in Japan😤
 ### ゲーム作りたのしぃぃぃぃぃぃぃぃぃぃぃ!!!!!!!!!!!!
-### My dream is to one day create a game that will be played all over the world!👍
 #
 
 # Skill (studying)
