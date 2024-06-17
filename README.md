@@ -1,5 +1,4 @@
-# I am a game programmer in Japan😤
-### ゲーム作りたのしぃぃぃぃぃぃぃぃぃぃぃ!!!!!!!!!!!!
+# I am a game programmer in Japan
 #
 
 # Skill (studying)
