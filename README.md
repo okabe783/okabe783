@@ -1,4 +1,4 @@
-# I am a game programmer in Japan
+# I strive to be an engineer who does everything possible for the team.
 #
 
 # Skill (studying)
